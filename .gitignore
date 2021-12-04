@@ -1,0 +1,11 @@
+# Project Vagrant LinkedIn (Part 1)
+node_todolist\node_modules
+node_todolist\.vagrant
+node_todolist\Vagrantfile
+# Project Vagrant LinkedIn (Part 2)
+node_vagrant_multi\node_modules
+node_vagrant_multi\.vagrant
+node_vagrant_multi\Vagrantfile
+# Project Vagrant Getting Started
+vagrant_getting_started\.vagrant
+.\vagrant_getting_started\Vagrantfile
