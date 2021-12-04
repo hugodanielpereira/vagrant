@@ -8,4 +8,4 @@ node_vagrant_multi\.vagrant
 node_vagrant_multi\Vagrantfile
 # Project Vagrant Getting Started
 vagrant_getting_started\.vagrant
-.\vagrant_getting_started\Vagrantfile
+vagrant_getting_started\Vagrantfile
