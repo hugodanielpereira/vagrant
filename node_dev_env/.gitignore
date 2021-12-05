@@ -1,2 +1,3 @@
 *.box
 .vagrant
+files/node_modules
